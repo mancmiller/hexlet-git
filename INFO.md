@@ -1,1 +1,1 @@
-new data
+I love Hexlet!
